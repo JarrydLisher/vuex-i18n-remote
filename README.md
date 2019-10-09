@@ -16,7 +16,7 @@ so that you can load groups of translations at a time.
 import Vue from 'vue';
 import Vuex from 'vuex';
 import Axios from 'axios';
-import VuexI18nRemote from "./index"; // file from vuex-i18n-remote plugin
+import VuexI18nRemote from "vuex-i18n-remote"; // file from vuex-i18n-remote plugin
 
 // ...setup Axios default config
 
