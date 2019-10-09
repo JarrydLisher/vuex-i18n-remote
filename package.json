@@ -1,0 +1,16 @@
+{
+    "name": "vuex-i18n-remote",
+    "version": "1.0.0",
+    "description": "Package to allow for fetching of translations from remote server using Vue, VueI18n and Axios",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jarryd Lisher <jarryd.lisher@litson.co.za>",
+    "license": "MIT",
+    "dependencies": {
+        "vue": "^2.5.17",
+        "vue-axios": "^2.1.4",
+        "vuex-i18n": "^1.13.1"
+    }
+}
